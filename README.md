@@ -12,13 +12,13 @@
 <img src="images/wlcm.png" alt="wlcm">
 
 <h2>Add a Note</h2>
-<h5></h5>
+<h5>Here the user can add a note, by using a "Add a Note" section, and notes will be stored in local storage.</h5>
 <img src="images/Add.png" alt="Add">
 
 <h2>Search a Note</h2>
-<h5></h5>
+<h5>Here the user can search a particular note, by using a search bar.</h5>
 <img src="images/search.png" alt="Search">
 
 <h2>Delete a Note</h2>
-<h5></h5>
+<h5>Here the user can delete a note, by clicking on the "Delete a Note" button. And that will be deleted, and Notes will update automatically.</h5>
 <img src="images/delete.png" alt="Delete">
