@@ -1,5 +1,5 @@
 # Notes-taking-app
-<h5>This is a full stack we application. In which user can add, delete, read tand search heir notes. The data will be stored in localstorage.</h5>
+<h5>This is a full stack we application. In which user can add, delete, read and search heir notes. The data will be stored in localstorage.</h5>
 
 <h2>Installation</h2>
 <h5> To install, simply clone this repository & smiply run the following by copying the html file path on your web browser.</h5>
