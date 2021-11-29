@@ -13,9 +13,12 @@
 
 <h2>Add a Note</h2>
 <h5></h5>
+<img src="images/Add.png" alt="Add">
 
 <h2>Search a Note</h2>
 <h5></h5>
+<img src="images/search.png" alt="Search">
 
 <h2>Delete a Note</h2>
 <h5></h5>
+<img src="images/delete.png" alt="Delete">
