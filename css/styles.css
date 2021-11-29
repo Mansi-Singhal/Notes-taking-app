@@ -1,1 +1,19 @@
+body{
+  background-color: #FF9292;
+  background-image: -webkit-linear-gradient(40deg, #194350 50%, #9DBEB9 50%);
+  min-height: 1000px;
+  font-family: "Ubuntu";
+  font-size: 25px;
+}
 
+h1{
+  font-size: 50px;
+  color: white;
+}
+h3{
+  font-size: 30px;
+  color: white;
+}
+.card-title{
+  color: white;
+}
